@@ -1,6 +1,6 @@
 import React from 'react';
 import { Award, Building2, DollarSign, Globe, Users, Zap } from 'lucide-react';
-import Button from './button';
+import Button from './Button';
 
 const ForbesList = ({ list }) => {
   const icons = {
